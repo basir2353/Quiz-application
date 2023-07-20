@@ -1,0 +1,32 @@
+.question-container{
+    max-width: 500px;
+    box-shadow: 0 5px 24px #867a7a;
+padding: 20px;
+margin: 0 auto;
+margin-top: 50px;
+text-align: left
+};
+.submit{
+width: 100%;
+border: none;
+background-color: #1c1c4c;
+color: #ffffff;
+border-radius: 5px;
+padding: 7px;
+}
+.App{
+    text-align: center;
+
+}
+.App > h1{
+    text-shadow:4px 2px 5px #917373;
+}
+.reults{
+    max-width: 500px;
+    box-shadow: 0 5px 24px #867a7a;
+padding: 20px;
+margin: 0 auto;
+margin-top: 50px;
+text-align: center
+
+}

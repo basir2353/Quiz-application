@@ -1,0 +1,14 @@
+.submit{
+    padding: 5px;
+    background-color: #272785;
+    color: white;
+    margin: auto;
+    width: 100%;
+    border: none;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+.radio{
+    display: block;
+    margin: 9px 0;
+}
